@@ -176,5 +176,12 @@ header ul li:hover::after{
    header .navbar ul li {
       margin-left:0px;
 }
+.footer-column{
+   flex-direction: column;
+   align-items: center;
+}
+.navbar-collapse {
+   background-color: #fff;
+}
 }
 
