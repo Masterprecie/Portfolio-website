@@ -176,6 +176,9 @@ header ul li:hover::after{
    header .navbar ul li {
       margin-left:0px;
 }
+header .navbar ul li a{
+  color: #000!important;
+}
 .footer-column{
    flex-direction: column;
    align-items: center;
